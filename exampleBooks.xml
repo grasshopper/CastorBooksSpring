@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book>
+	<ISBN>3340284923420934</ISBN>
+	<title>My first Castor Hello World</title>
+	<author>
+		<firstName>Silvio</firstName>
+		<lastName>Nunes</lastName>
+	</author>
+	<author>
+		<firstName>William</firstName>
+		<lastName>Nunes</lastName>
+	</author>
+	<author>
+		<firstName>Angela</firstName>
+		<lastName>Nunes</lastName>
+	</author>
+</book>

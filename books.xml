@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<improved-book>
+	<author xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:java="http://java.sun.com" xsi:type="java:com.coolisland.castor.helloworld.books.Author">
+		<last-name>Nunes</last-name>
+		<first-name>Silvio</first-name>
+	</author>
+	<author xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:java="http://java.sun.com" xsi:type="java:com.coolisland.castor.helloworld.books.Author">
+		<last-name>Nunes</last-name>
+		<first-name>William</first-name>
+	</author>
+	<author xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xmlns:java="http://java.sun.com" xsi:type="java:com.coolisland.castor.helloworld.books.Author">
+		<last-name>Nunes</last-name>
+		<first-name>Angela</first-name>
+	</author>
+	<ISBN>3340284923420934</ISBN>
+	<title>My first Castor Hello World</title>
+</improved-book>
